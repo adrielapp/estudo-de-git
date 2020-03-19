@@ -1,0 +1,6 @@
+Git é uma ferramenta de versionamento de código( versionamento de código é basicamente poder verificar todas as versões anteriores
+podendo marcar pontos na historia que são conhecidas como commits.) o git hub serve para hospedar o seu código em uma plataforma segura
+como uma nuvem, podendo até verificar todo histórico, quem alterou o arquivo, quantas alterações foram feitas, quantos pontos na história você tem,
+quantos pontos na historia você tem, quais arquivos você alterou por qual... entre outras funções de controle
+
+
